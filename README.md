@@ -1,19 +1,25 @@
 # Hi there, I'm Felipe Lee - aka r3solv! 👋
 
 <div> 
+  
   <a href = "mailto:felipe.lee30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.linkedin.com/in/felipelee30/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 <!--   <a href="https://www.youtube.com/channel/UCLwKFhotdI5ff3-9Q6EpsZQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  
   <a href="https://www.instagram.com/_lee30/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
   <a href="https://discordapp.com/users/261255283463028736" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
 </div>
 
 <br><br>
 
 <div align=center>
   <a href="https://github.com/Lee3007">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Lee3007&hide=issues,prs&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee3007&layout=compact&show_icons=true&theme=dracula&langs_count=6"/>
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Lee3007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee3007&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 <div>
 
