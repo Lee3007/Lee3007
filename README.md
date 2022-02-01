@@ -1,6 +1,7 @@
 # Hi there, I'm Felipe Lee - aka r3solv! 👋
 
 <div>
+  <a href="https://www.buymeacoffee.com/felipelee" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
   <a href = "mailto:felipe.lee30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipelee30/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--   <a href="https://www.youtube.com/channel/UCLwKFhotdI5ff3-9Q6EpsZQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
@@ -23,11 +24,11 @@
   
 - 🔨 I’m currently working on [my personal website.][website]
 - 🌱 I’m currently learning React.
-- 🔭 I’m looking forword to studying Ruby and Rails.
-- 🤔 I’m looking for an internship or work as junior.
-- 📫 How to reach me: [felipe.lee30@gmail.com][mail] or [Linkedin][linkedin]
-- 😄 Pronouns: He/Him
-- 💭 Fun fact: My dream is to live in Canada
+- 🔭 I’m looking forward to studying Ruby and Rails.
+- 🤔 I’m looking for an internship or job as a junior dev.
+- 📫 How to reach me: [felipe.lee30@gmail.com][mail] or [Linkedin][linkedin].
+- 😄 Pronouns: He/Him.
+- 💭 Fun fact: My dream is to live in Canada.
 - 🐍 I recently developed a [Snake][snake] game, go check it out!
 </div><br><br>
   
