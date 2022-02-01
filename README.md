@@ -12,11 +12,11 @@
 
 <div align=center>
   <a href="https://github.com/Lee3007">
-  <img width="457"  src="https://github-readme-stats.vercel.app/api?username=Lee3007&hide=issues,prs&count_private=true&show_icons=true&theme=dracula"/>
-  <img width="179" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee3007&layout=compact&show_icons=true&theme=dracula&langs_count=6"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Lee3007&hide=issues,prs&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee3007&layout=compact&show_icons=true&theme=dracula&langs_count=6"/>
   </a>
 <div>
-<!--  height 177  -->
+
 <br>
 
 <div align=left>
