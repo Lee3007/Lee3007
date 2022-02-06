@@ -22,7 +22,7 @@
 
 <div align=left>
   
-- 🔨 I’m currently working on [my personal website.][website]
+- 🔨 I’m currently working on [my personal website.][website].
 - 🌱 I’m currently learning React.
 - 🔭 I’m looking forward to studying Ruby and Rails.
 - 🤔 I’m looking for an internship or job as a junior dev.
@@ -56,6 +56,7 @@
   <img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img align="center" alt="Sass" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img align="center" alt="CMake" height="30" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
   <img align="center" alt="MarkDown" height="30" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
