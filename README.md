@@ -84,4 +84,4 @@
 [website]: https://lee3007.github.io/MyWebsite/
 [mail]: mailto:felipe.lee30@gmail.com
 [linkedin]: https://www.linkedin.com/in/felipelee30/
-[snake]: https://lee3007.github.io/js-snake/
+[snake]: https://lee3007.github.io/Snake_JS/
