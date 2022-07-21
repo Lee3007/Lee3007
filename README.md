@@ -21,6 +21,7 @@
 <br>
 
 <div align=left>
+
 - 🌐 I recently developed my [my personal website][website], go check it out!
 - 🔨 I’m currently working on building an e-commerce app.
 - 🌱 I’m currently learning NodeJS.
