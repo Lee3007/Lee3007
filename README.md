@@ -21,22 +21,15 @@
 <br>
 
 <div align=left>
-
-- 🌐 I recently developed my [my personal website][website], go check it out!
-- 🔨 I’m currently working on building an e-commerce app.
-- 🌱 I’m currently learning NodeJS.
-- 🔭 I’m looking forward to studying Ruby and Rails.
-- 🤔 I’m looking for an internship or job as a junior dev.
+  
+- 🔨 I worked as an Intern in FullStack Development for more than a year at Driva! I’m currently experimenting a new area as an Intern in Data Engineering in the same company.
 - 📫 How to reach me: [felipe.lee30@gmail.com][mail] or [Linkedin][linkedin].
-- 😄 Pronouns: He/Him.
-- 💭 Fun fact: My dream is to live in Canada.
 </div><br><br>
   
   
   
  ## Languages and Tools
  
-<h3>That I use</h3>
 <div style="display: inline_block">
   <img align="center" alt="C" height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt="Cpp" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -46,37 +39,17 @@
   <img align="center" alt="Linux" height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img align="center" alt="Manjaro" height="30" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
   <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
-  <br>
-  
-<h3>That I'm learning</h3>
-<div style="display: inline_block">
   <img align="center" alt="ExpressJS" height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img align="center" alt="NodeJS" height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img align="center" alt="Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt="Sass" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img align="center" alt="CMake" height="30" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-  <img align="center" alt="MarkDown" height="30" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-</div>
-<br>
-
-<h3>That I'm looking forward to learning</h3>
-<div style="display: inline_block">
   <img align="center" alt="ReactNative" height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Ruby" height="30" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img align="center" alt="Rails" height="30" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-  <img align="center" alt="dotNET" height="30" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img align="center" alt="MaterialUI" height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img align="center" alt="NextJS" height="30" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
- </div>
+</div>
   <br>
-
-
-  
-  
+    
   
   
 [website]: https://lee3007.github.io/MyWebsite/
