@@ -1,57 +1,197 @@
-# Hi there, I'm Felipe Lee - aka r3solv! 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hi, I'm Felipe Augusto Lee
 
-<div>
-  <a href = "mailto:felipe.lee30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipelee30/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--   <a href="https://www.youtube.com/channel/UCLwKFhotdI5ff3-9Q6EpsZQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.instagram.com/_lee30/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/261255283463028736" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://www.buymeacoffee.com/felipelee" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend-Focused+Full-Stack+Developer;React+%7C+TypeScript+%7C+TailwindCSS;Building+Amazing+Web+Experiences)](https://git.io/typing-svg)
+
+  <p align="center">
+    <a href="https://lee3007.github.io/MyWebsite/"><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+    <a href="mailto:felipe.lee30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/felipelee30/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/Lee3007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Availability-Remote_(Global)-3AA138?style=flat-square" alt="Availability">
+    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-3AA138?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/badge/Focus-Front--End_Development-blue?style=flat-square" alt="Focus">
+  </p>
 </div>
 
-<br><br>
+---
 
-<div align=center>
-  <a href="https://github.com/Lee3007">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Lee3007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee3007&layout=compact&langs_count=7&theme=dracula"/>
+## 👨‍💻 Professional Summary
+
+Currently a **Full-Stack Developer** at **Shaw And Partners** (Remote, USA) specializing in transforming designs into responsive web applications. With 3+ years of professional experience, I excel at building scalable frontend solutions using **React**, **TypeScript**, and **TailwindCSS**, while maintaining strong full-stack capabilities with **NodeJS**, **NestJS**, **PostgreSQL**, and many other modern technologies.
+
+---
+
+## 💼 Professional Experience
+
+<details open>
+<summary><b>🌟 Current Role</b></summary>
+
+### Full-Stack Developer @ Shaw And Partners
+**Remote, USA | September 2024 - Present**
+
+<div style="margin-left: 20px">
+
+🎨 **Frontend Development**
+- Transform complex Figma designs into **pixel-perfect**, responsive web interfaces
+- Develop and maintain comprehensive **component libraries** in a large-scale monorepo
+- Implement **mobile-first** approaches ensuring seamless cross-browser compatibility
+
+🔧 **Technical Challenges**
+- Debug and resolve complex **UI/UX issues**, significantly improving application stability
+- Rapidly assemble client-ready applications using pre-built features
+- Integrate backend APIs for seamless data exchange
+
+**Tech Stack:** `React` `TypeScript` `TailwindCSS` `Git` `Monorepo` `Component Libraries`
+
+</div>
+</details>
+
+<details>
+<summary><b>📚 Previous Experience</b></summary>
+
+### Full-Stack Developer @ Driva
+**Curitiba, Brazil | September 2022 - September 2024**
+
+<div style="margin-left: 20px">
+
+🚀 **Full-Stack Development**
+- Engineered applications using **React**, **TypeScript**, and **NestJS**
+- Developed cross-platform mobile app with **React Native**
+- Optimized **PostgreSQL** queries and implemented **Elasticsearch** logging
+
+🏗️ **Architecture & Infrastructure**
+- Built critical authentication service for microservices architecture
+- Designed robust data pipeline with **AWS**, **PySpark**, and **Pandas**
+- Collaborated with PMs/POs in Agile framework
+
+**Tech Stack:** `React` `NestJS` `PostgreSQL` `React Native` `AWS` `Elasticsearch` `PySpark`
+
+</div>
+
+### Scholarship Holder @ PETECO - UTFPR
+**Curitiba, Brazil | August 2021 - September 2022**
+
+<div style="margin-left: 20px">
+
+📚 **Educational Technology**
+- Developed educational game teaching Computational Thinking to children
+- Created Python course content for social media education
+
+</div>
+</details>
+
+---
+
+## 🛠️ Technical Skills Matrix
+
+<div align="center">
+
+### Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,materialui,sass&theme=dark" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,mongodb&theme=dark" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark" />
+</p>
+
+### Additional Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
+</p>
+
+</div>
+
+<details>
+<summary><b>📊 Detailed Skill Breakdown</b></summary>
+
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React, TypeScript, JavaScript, TailwindCSS, Material-UI, Styled Components, Zustand, React Native |
+| **Backend** | Node.js, NestJS, RESTful APIs, Microservices |
+| **Database** | PostgreSQL, MongoDB, SQL, NoSQL, Elasticsearch |
+| **DevOps** | Git, GitHub, Docker, AWS, CI/CD |
+| **Data** | PySpark, Pandas, Web Scraping, Data Pipelines |
+| **Languages** | JavaScript, TypeScript, Python, C++, C, SQL |
+
+</details>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lee3007&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee3007&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lee3007&theme=react&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+### 🎓 Education
+**Bachelor of Computer Engineering**
+Federal Technological University of Paraná (UTFPR)
+*Expected Graduation: December 2025*
+
+### 🏆 Certifications
+<p>
+  <img src="https://img.shields.io/badge/Cambridge_English-C2_Advanced-success?style=for-the-badge" alt="Cambridge C2"/>
+  <img src="https://img.shields.io/badge/Cambridge_English-C1_First-blue?style=for-the-badge" alt="Cambridge C1"/>
+</p>
+
+</div>
+
+---
+
+## 📬 Let's Connect & Build Something Amazing!
+
+<div align="center">
+
+<p>
+  <b>I'm passionate about creating exceptional user experiences and would love to collaborate on your next project!</b>
+</p>
+
+<p>
+  <a href="mailto:felipe.lee30@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-felipe.lee30@gmail.com-red?style=for-the-badge" alt="Email"/>
   </a>
-<div>
+  <a href="https://www.linkedin.com/in/felipelee30/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://lee3007.github.io/MyWebsite/">
+    <img src="https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-<br>
-
-<div align=left>
-  
-- 🔨 I worked as an Intern in FullStack Development for more than a year at Driva! I’m currently experimenting a new area as an Intern in Data Engineering in the same company.
-- 📫 How to reach me: [felipe.lee30@gmail.com][mail] or [Linkedin][linkedin].
-</div><br><br>
-  
-  
-  
- ## Languages and Tools
- 
-<div style="display: inline_block">
-  <img align="center" alt="C" height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align="center" alt="Cpp" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="Linux" height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img align="center" alt="Manjaro" height="30" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
-  <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="ExpressJS" height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img align="center" alt="NodeJS" height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img align="center" alt="Sass" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img align="center" alt="ReactNative" height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="MaterialUI" height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 </div>
-  <br>
-    
-  
-  
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+  <sub>Built with ❤️ by Felipe Lee</sub>
+</div>
+
+<!-- Links -->
 [website]: https://lee3007.github.io/MyWebsite/
 [mail]: mailto:felipe.lee30@gmail.com
 [linkedin]: https://www.linkedin.com/in/felipelee30/
